@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Languages
-Python • JavaScript • Node.js • SQL • PostgreSQL • MongoDB  
+Python • Node.js 
 
 ### 🗄️ Databases
 PostgreSQL • MongoDB
