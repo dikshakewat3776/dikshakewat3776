@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dikshakewat3776&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Contributions-236-blue" />
+</p>
 </p>
 
 ---
@@ -26,23 +28,10 @@ PostgreSQL • MongoDB
 System Design • Distributed Systems • Microservices • REST APIs
 
 ### 📊 Data & Infrastructure
-BigQuery • Solr • Kafka • Redis • Elasticsearch • GCS
+BigQuery • Solr • Kafka • Redis • Elasticsearch
 
 ### 🧰 Tools & Technologies
-Docker • Jenkins • Prometheus • Grafana • RabbitMQ • Celery
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshakewat3776&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=dikshakewat3776&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshakewat3776&layout=compact&theme=tokyonight" />
-</p>
+Docker • Jenkins • Prometheus • Grafana • RabbitMQ • Celery • Redis 
 
 ---
 
