@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 💻 A Software Engineer with **7+ years of experience** across **backend, full stack, machine learning, and data engineering domains**
+- 💻 A Software Engineer with **7+ years of experience** across **backend, full stack, machine learning domains**
 - ⚙️ Strong expertise in **Python, Node.js, distributed systems, and system design**
 - ☕ Fueled by caffeine and curiosity  
 
