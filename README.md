@@ -4,6 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=dikshakewat3776&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/badge/Contributions-236-blue" />
 </p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshakewat3776&theme=radical" />
+</p>
+
 </p>
 
 ---
