@@ -10,34 +10,37 @@
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshakewat3776&theme=radical" />
 </p>
 
-</p>
-
 ---
 
 ## 🚀 About Me
 
-- 💻 A Software Engineer with **7+ years of experience** across **backend, full stack, machine learning domains**
-- ⚙️ Strong expertise in **Python, Node.js, distributed systems, and system design**
-- ☕ Fueled by caffeine and curiosity  
+- 💻 Software Engineer with **7+ years of experience** in **backend, full-stack development, and machine learning**
+- ⚡ Worked across **Django, Flask, FastAPI, Node.js, Express.js**, and **React (basic)**
+- 🧠 Experimented upon about **NLP, Computer Vision, Recommendation Systems**, and **Data Science research**
+- ⚙️ Skilled in building **distributed systems, microservices, and scalable APIs**
+- ☕ Fueled by curiosity and caffeine  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
-Python • Node.js 
+### 👩‍💻 Languages & Frameworks
+Python • Node.js • JavaScript • TypeScript • Django • Flask • FastAPI • Express.js • Falcon • React (basic)  
 
 ### 🗄️ Databases
-PostgreSQL • MongoDB
+MySQL • PostgreSQL • MongoDB • DynamoDB  
 
 ### ⚙️ Backend & Architecture
-System Design • Distributed Systems • Microservices • REST APIs
+System Design • Distributed Systems • Microservices • REST APIs • API Gateway  
 
-### 📊 Data & Infrastructure
-BigQuery • Solr • Kafka • Redis • Elasticsearch
+### 📊 Data, Machine Learning & AI
+NLP • Computer Vision • Recommendation Systems • Data Science Research  
 
-### 🧰 Tools & Technologies
-Docker • Jenkins • Prometheus • Grafana • RabbitMQ • Celery • Redis 
+### 🧰 DevOps & Tools
+GitHub • GitLab • Docker • Jenkins • Prometheus • Grafana • RabbitMQ • Celery • Redis • Kafka • Elasticsearch  
+
+### 💳 Domain Expertise
+Fintech • Scalable Web Applications  • AI & Computer Vision •  Consumer Tech 
 
 ---
 
