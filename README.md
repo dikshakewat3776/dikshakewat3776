@@ -5,11 +5,6 @@
   <img src="https://img.shields.io/badge/Contributions-236-blue" />
 </p>
 
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshakewat3776&theme=radical" />
-</p>
-
 ---
 
 ## 🚀 About Me
