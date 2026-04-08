@@ -43,10 +43,3 @@ GitHub • GitLab • Docker • Jenkins • Prometheus • Grafana • RabbitMQ
 Fintech • Scalable Web Applications  • AI & Computer Vision •  Consumer Tech 
 
 ---
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/diksha-kewat-3356a516b/">LinkedIn</a> • 
-  <a href="https://github.com/dikshakewat3776">GitHub</a>
-</p>
