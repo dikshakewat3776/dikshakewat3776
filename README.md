@@ -34,10 +34,10 @@ MySQL • PostgreSQL • MongoDB • DynamoDB
 System Design • Distributed Systems • Microservices • REST APIs • API Gateway  
 
 ### 📊 Data, Machine Learning & AI
-NLP • Computer Vision • Recommendation Systems • Data Science Research  
+NLP • Computer Vision • Recommendation Systems • Data Science Research • Anthropic • Claude . LLM
 
 ### 🧰 DevOps & Tools
-GitHub • GitLab • Docker • Jenkins • Prometheus • Grafana • RabbitMQ • Celery • Redis • Kafka • Elasticsearch  
+GitHub • GitLab • Docker • Jenkins • Prometheus • Grafana • RabbitMQ • Celery • Redis • Kafka • Elasticsearch . Signoz . Langfuse
 
 ### 💳 Domain Expertise
 Fintech • Scalable Web Applications  • AI & Computer Vision •  Consumer Tech 
